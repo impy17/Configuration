@@ -1,0 +1,33 @@
+urxvt.termName: rxvt-unicode
+urxvt.scrollBar: false
+!! urxvt.background: black
+urxvt.foreground: #c5c8c6
+urxvt.transparent: true
+urxvt.tintColor: gray
+urxvt.shading: 30
+urxvt.urlLauncher: firefox-beta
+urxvt.borderless: true
+
+!! urxvt*depth: 32
+!! urxvt*background: rgba:0000/0000/0200/c800
+
+urxvt.font: xft:DejaVu Sans Mono:pixelsize=10
+urxvt.boldfont: xft:DejaVu Sans Mono:pixelsize=10:weight=bold
+
+!! FONT COLORSCHEME
+urxvt.color0: #282a2e
+urxvt.color1: #a54242
+urxvt.color2: #8c9440
+urxvt.color3: #de935f
+urxvt.color4: #5f819d
+urxvt.color5: #85678f
+urxvt.color6: #5e8d87
+urxvt.color7: #707880
+urxvt.color8: #373b41
+urxvt.color9: #cc6666
+urxvt.color10: #b5bd68
+urxvt.color11: #f0c674
+urxvt.color12: #81a2be
+urxvt.color13: #b294bb
+urxvt.color14: #8abeb7
+urxvt.color15: #c5c8c6

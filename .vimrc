@@ -27,6 +27,12 @@ filetype plugin indent on
 " allow mouse
 " set mouse=a
 
+" disable error bells
+set noerrorbells visualbell t_vb=
+if has('autocmd')
+	autocmd GUIENTER * set visualbell t_vb=
+endif
+
 " color scheme
 set t_Co=16
 set background=dark
